@@ -12,6 +12,7 @@
 and other
 
 ### Software Engineer, a full-stack to be:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaalheeh&layout=dracula)](https://github.com/fatimaalheeh/github-readme-stats)
 
 ### Connect with me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/fatima-al-heeh-090a76183//) 
